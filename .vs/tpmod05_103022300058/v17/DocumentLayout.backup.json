@@ -3,12 +3,17 @@
   "WorkspaceRootPath": "D:\\Kuliah\\Semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{040737B7-E6C0-467A-B71E-F10939FE2A14}|tpmod05_103022300058\\tpmod05_103022300058.csproj|d:\\kuliah\\semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{040737B7-E6C0-467A-B71E-F10939FE2A14}|tpmod05_103022300058\\tpmod05_103022300058.csproj|D:\\Kuliah\\Semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{040737B7-E6C0-467A-B71E-F10939FE2A14}|tpmod05_103022300058\\tpmod05_103022300058.csproj|solutionrelative:tpmod05_103022300058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{040737B7-E6C0-467A-B71E-F10939FE2A14}|tpmod05_103022300058\\tpmod05_103022300058.csproj|d:\\kuliah\\semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{040737B7-E6C0-467A-B71E-F10939FE2A14}|tpmod05_103022300058\\tpmod05_103022300058.csproj|solutionrelative:tpmod05_103022300058\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{040737B7-E6C0-467A-B71E-F10939FE2A14}|tpmod05_103022300058\\tpmod05_103022300058.csproj|d:\\kuliah\\semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040737B7-E6C0-467A-B71E-F10939FE2A14}|tpmod05_103022300058\\tpmod05_103022300058.csproj|solutionrelative:tpmod05_103022300058\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> generic-class
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +32,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "HaloGeneric.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\HaloGeneric.cs",
               "RelativeDocumentMoniker": "tpmod05_103022300058\\HaloGeneric.cs",
@@ -35,6 +41,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T08:54:45.739Z",
+=======
+              "Title": "DataGeneric.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\DataGeneric.cs",
+              "RelativeDocumentMoniker": "tpmod05_103022300058\\DataGeneric.cs",
+              "ToolTip": "D:\\Kuliah\\Semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\DataGeneric.cs",
+              "RelativeToolTip": "tpmod05_103022300058\\DataGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:00:55.65Z",
+>>>>>>> generic-class
               "EditorCaption": ""
             },
             {
@@ -43,9 +59,15 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\Program.cs",
               "RelativeDocumentMoniker": "tpmod05_103022300058\\Program.cs",
+<<<<<<< HEAD
+              "ToolTip": "D:\\Kuliah\\Semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\Program.cs*",
+              "RelativeToolTip": "tpmod05_103022300058\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+=======
               "ToolTip": "D:\\Kuliah\\Semester 4\\kpl\\tpmod05_103022300058\\tpmod05_103022300058\\tpmod05_103022300058\\Program.cs",
               "RelativeToolTip": "tpmod05_103022300058\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+>>>>>>> generic-class
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T08:46:48.525Z",
               "EditorCaption": ""
