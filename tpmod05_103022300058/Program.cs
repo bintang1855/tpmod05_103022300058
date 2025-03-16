@@ -10,6 +10,9 @@ namespace tpmod05_103022300058
     {
         static void Main(string[] args)
         {
+            DataGeneric<string> dataNIM = new DataGeneric<string>("103022300058");
+
+            dataNIM.PrintData();
         }
     }
 }
